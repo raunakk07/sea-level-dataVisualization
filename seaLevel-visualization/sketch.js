@@ -61,7 +61,7 @@ function draw(){
              textSize(25);
              fill(250,171,120)
              rect(diagramX,diagramY+15,30,5);
-             text(gsml[i],diagramX,diagramY+45);
+             text(gsml[i]+" mm",diagramX,diagramY+45);
              
         }
         else{
